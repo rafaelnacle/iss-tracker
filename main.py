@@ -1,8 +1,9 @@
 import requests
 from datetime import datetime
 
-MY_LAT = 51.507351
-MY_LNG = -0.127758
+# Cianorte - Paraná location
+MY_LAT = -23.663349
+MY_LNG = -52.604439
 
 parameters = {
     "lat": MY_LAT,
